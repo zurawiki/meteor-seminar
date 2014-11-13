@@ -1,0 +1,1 @@
+#include <stdio.h>#include <stdbool.h>int main(void) {    char* s = "CS50";    float n = 3.14;    bool b = true;    printf("s = \"%s\", n = %f, b = %d\n", s, n, b);    return 0;}

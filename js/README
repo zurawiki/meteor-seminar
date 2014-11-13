@@ -1,0 +1,9 @@
+## CS50 Appliance users
+
+To run .js files in the terminal, install node with this command:
+
+    sudo apt-get install -y node
+
+Then run the javascript file with:
+
+    node ex1.js

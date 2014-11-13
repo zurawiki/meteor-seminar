@@ -1,0 +1,1 @@
+// #include <stdio.h>//// int main(void) {//     // prints numbers 0 to 4//     for (int i = 0; i < 5; i++) {//         printf("%d", i);//     }////     return 0;// }for (var i = 0; i < 5; i++) {    console.log(i);}
